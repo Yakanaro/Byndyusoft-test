@@ -1,0 +1,15 @@
+{
+  "name": "summin",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "sum of minimum values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yakanaro",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
